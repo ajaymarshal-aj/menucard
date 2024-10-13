@@ -1,0 +1,26 @@
+body{
+    border: double;
+    background-image:url(white.png)
+}
+h2{
+    margin:10px;
+    color:rgb(190, 17, 69);
+    font-style: italic;
+}
+li{
+    margin: 10px;
+    font-style: italic;
+}
+dt{
+    margin:10px;
+    font-style:italic
+}
+dd{
+    margin: 10px;
+    font-style:italic
+}
+h1{
+    margin:10px;
+    color:black;
+    font-style:italic
+}
